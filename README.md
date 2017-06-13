@@ -17,6 +17,9 @@
 ## Jenis Navigasi yang digunakan : 
 #### Navigation Drawer
 
+## Local Database yang digunakan : 
+#### SQLite Dasar
+
 ## Alamat API : 
 #### https://www.themoviedb.org/documentation/api
 
